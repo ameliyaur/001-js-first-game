@@ -1,0 +1,20 @@
+body{
+    background-color:  var(--bs-indigo);
+    text-align: center;
+    font-family: 'Supermercado One', cursive;
+
+  }
+  
+  .counter{
+    background-color: var(--bs-yellow);
+    width: 150px;
+    height: 150px;
+    line-height: 150px;
+    font-size: 34px;
+    margin: auto;
+    border-radius: 50%;
+  }
+  
+  .btn-custom{
+    background-color: var(--bs-teal);
+  }
